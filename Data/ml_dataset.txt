@@ -1,0 +1,157 @@
+Machine learning helps computers learn patterns from data.
+Deep learning uses neural networks to learn complex relationships.
+A neuron receives multiple inputs and produces one output.
+Weights and biases determine how a neural network behaves.
+Activation functions introduce non-linearity in neural networks.
+ReLU activation performs well in most deep learning models.
+Sigmoid activation is useful for binary classification tasks.
+Softmax converts numbers into probabilities.
+Backpropagation computes gradients for updating weights.
+Gradient descent minimizes the loss function step by step.
+Stochastic gradient descent uses small batches of data.
+Mini batch gradient descent improves training speed.
+Learning rate controls how fast a model updates weights.
+A high learning rate may cause training to diverge.
+A low learning rate may slow down training significantly.
+Training a model requires defining a loss function.
+Cross entropy loss is used for classification problems.
+Mean squared error is used for regression tasks.
+Overfitting occurs when a model memorizes training data.
+Underfitting happens when the model is too simple.
+Regularization reduces overfitting in machine learning models.
+Dropout randomly disables neurons during training.
+Early stopping prevents the model from overfitting.
+Batch normalization stabilizes deep neural networks.
+A convolutional neural network is used for image processing.
+Convolution layers detect edges and textures.
+Pooling layers reduce spatial dimensions.
+Fully connected layers make final predictions.
+Transfer learning uses pre-trained models for new tasks.
+Fine tuning adjusts weights of a pre-trained model.
+Data augmentation increases dataset size artificially.
+Image rotation and flipping are common augmentation techniques.
+Recurrent neural networks process sequential data.
+LSTM networks can remember long term dependencies.
+GRU networks are simpler than LSTMs but still powerful.
+Attention mechanism helps models focus on important words.
+Transformers use self attention to process entire sequences.
+The encoder processes input sentences in transformer models.
+The decoder generates output sentences in transformer models.
+BERT is a bidirectional transformer model.
+GPT models generate human like text.
+Tokenization splits text into small units called tokens.
+Word embeddings convert words into vectors.
+Word2Vec learns embeddings using skip gram and CBOW.
+GloVe embeddings are trained on global co-occurrence statistics.
+FastText embeddings consider subword information.
+Cosine similarity measures similarity between two vectors.
+NLP models understand patterns in language.
+Sentiment analysis classifies text as positive or negative.
+Named entity recognition finds names of people and places.
+Machine translation converts text from one language to another.
+Text summarization reduces long documents into short summaries.
+Speech recognition converts audio into text.
+Text to speech converts text into spoken audio.
+A dataset contains samples used for machine learning training.
+A feature is a measurable input used by models.
+Labels represent the correct output we want the model to learn.
+Training data is used to teach the model.
+Test data evaluates how well the model performs.
+Validation data helps tune hyperparameters.
+Hyperparameters influence model performance.
+Grid search tries all combinations of hyperparameters.
+Random search selects random combinations of hyperparameters.
+Model accuracy measures how many predictions are correct.
+Precision measures how many predicted positives are correct.
+Recall measures how many actual positives were predicted.
+F1 score is the harmonic mean of precision and recall.
+Confusion matrix shows the performance of a classifier.
+Clustering groups similar data points together.
+K means clustering partitions data into k clusters.
+Hierarchical clustering builds a tree of clusters.
+Dimensionality reduction reduces the number of features.
+PCA finds principal components in the data.
+t SNE visualizes high dimensional data.
+UMAP preserves structure while reducing dimensions.
+Reinforcement learning trains agents through rewards.
+Markov decision process defines reinforcement learning tasks.
+Q learning learns values for each action and state.
+Policy gradient methods learn probability distributions of actions.
+An agent interacts with an environment.
+A reward is given for good actions.
+A penalty is given for bad actions.
+Exploration helps the agent discover new actions.
+Exploitation selects the best known action.
+Epsilon greedy balances exploration and exploitation.
+A robot can be trained using reinforcement learning.
+GANs generate realistic images from noise.
+A generator tries to fool the discriminator.
+A discriminator tries to distinguish real and fake images.
+Diffusion models gradually remove noise to generate images.
+Autoencoders compress and reconstruct data.
+Variational autoencoders learn latent representations.
+A latent space stores compressed information.
+Embeddings capture semantic meaning of words and sentences.
+Large language models are trained on huge datasets.
+Model parameters represent learned knowledge.
+A tokenizer converts text into numerical tokens.
+A prompt helps guide the model to produce output.
+Context window limits how much text the model can see.
+Temperature controls the randomness of model outputs.
+Top k sampling selects from the top k possible outputs.
+Beam search finds the best sequence using multiple paths.
+Neural networks require massive computation.
+GPUs accelerate matrix multiplication.
+TPUs are specialized hardware for deep learning tasks.
+Cloud computing provides scalable resources.
+A pipeline connects all steps of a machine learning workflow.
+Data cleaning removes noise from datasets.
+Normalization scales values between a range.
+Standardization converts data to a normal distribution.
+Feature engineering improves model performance.
+Feature selection removes unnecessary features.
+A model pipeline may include preprocessing and prediction.
+Model deployment puts the model into production.
+APIs allow models to interact with applications.
+Monitoring ensures the model continues to perform well.
+Bias in machine learning can cause unfair predictions.
+Fairness ensures that model predictions are ethical.
+Explainable AI helps us understand model decisions.
+Model drift occurs when data changes over time.
+Retraining updates the model with new data.
+MLOps manages machine learning in production.
+A confusion matrix summarizes classification performance.
+Loss curves show how training improves over time.
+Neural networks improve with more training data.
+Zero shot learning makes predictions without training examples.
+Few shot learning requires only a few examples.
+Self supervised learning learns from unlabeled data.
+Contrastive learning compares positive and negative pairs.
+Knowledge distillation compresses large models.
+Ensemble learning combines multiple models.
+A random forest is a collection of decision trees.
+Decision trees split data using simple rules.
+Boosting focuses on mistakes made by previous models.
+Bagging trains models on random subsets.
+XGBoost is a powerful gradient boosting method.
+LightGBM is a fast and efficient boosting algorithm.
+CatBoost handles categorical features effectively.
+Regression predicts continuous values.
+Classification predicts discrete classes.
+Logistic regression predicts binary outcomes.
+Linear regression fits a straight line to data.
+Support vector machines find a separating hyperplane.
+A kernel trick maps data to a higher dimensional space.
+A confusion matrix compares predicted and actual labels.
+Optimization finds the best parameters for a model.
+Feature maps represent data in a new space.
+Training deep networks requires many epochs.
+An epoch is one complete pass over the dataset.
+Iterations represent batches processed per epoch.
+Batch size determines number of samples processed at once.
+A model converges when performance stops improving.
+Transfer learning reduces training cost.
+Large datasets improve generalization.
+Text embeddings store meaning in vector form.
+Vector arithmetic demonstrates relationships between words.
+Analogies show semantic reasoning in embeddings.
